@@ -2,6 +2,12 @@
     font-family: sans-serif;
 }
 
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
 .card {
     background: linear-gradient(135deg, #00feba, #5b548a);
     width: 350px;
